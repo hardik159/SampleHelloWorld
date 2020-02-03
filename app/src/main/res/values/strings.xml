@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldApplication</string>
+    <string name="buttonLabel">Send Message</string>
+    <string name="name">Enter Message</string>
+</resources>
